@@ -17,7 +17,7 @@ Contains reels, search grid view,
  
 <img src="https://user-images.githubusercontent.com/69755039/143600174-7f10987e-3665-49bc-b346-6f3e9a30df08.png" width="300" height="600">
 
-    </div>
+
 
    <div class="row">
 <img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="600">
