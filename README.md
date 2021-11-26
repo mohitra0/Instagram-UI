@@ -11,7 +11,7 @@ Contains reels, search grid view,
 
   
 
-<img src="https://user-images.githubusercontent.com/69755039/143600161-aa7453c4-8597-4db8-8792-455a90deab76.png " width="300" height=600">
+<img src="https://user-images.githubusercontent.com/69755039/143600161-aa7453c4-8597-4db8-8792-455a90deab76.png " width="300" height="600">
  
    
  
