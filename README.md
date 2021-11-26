@@ -6,18 +6,18 @@ Contains reels, search grid view,
 ## Getting Started
 <div class="container">
   <div class="row">
-    <div class="col-sm-4">
+    
 <img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="500">
-    </div>
-    <div class="col-sm-4">
+
+  
 
 <img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="300">
-    </div>
-    <div class="col-sm-4">
+ 
+   
  
 <img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="300">
     </div>
-  </div>
+
 </div>
 
 ![Screenshot_20211126-175919](https://user-images.githubusercontent.com/69755039/143600161-aa7453c4-8597-4db8-8792-455a90deab76.png)
