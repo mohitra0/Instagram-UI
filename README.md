@@ -7,28 +7,28 @@ Contains reels, search grid view,
 <div class="container">
   <div class="row">
     
-<img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600153-7989cd5f-d955-4067-87a3-d1463d7fa694.png " width="300" height="600">
 
   
 
-<img src="https://user-images.githubusercontent.com/69755039/143600161-aa7453c4-8597-4db8-8792-455a90deab76.png " width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600161-aa7453c4-8597-4db8-8792-455a90deab76.png " width="300" height=600">
  
    
  
-<img src="https://user-images.githubusercontent.com/69755039/143600164-3c8ce521-cb26-4d4b-aa46-0e89d89cea6a.png " width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600164-3c8ce521-cb26-4d4b-aa46-0e89d89cea6a.png " width="300" height="600">
     </div>
 
    <div class="row">
     
-<img src="https://user-images.githubusercontent.com/69755039/143600168-364ad4fe-41f9-4310-91f7-559461b09b28.png " width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600168-364ad4fe-41f9-4310-91f7-559461b09b28.png " width="300" height="600">
 
   
 
-<img src="https://user-images.githubusercontent.com/69755039/143600171-23456308-d936-401f-a122-3f7a153b71a6.png " width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600171-23456308-d936-401f-a122-3f7a153b71a6.png " width="300" height="600">
  
    
  
-<img src="https://user-images.githubusercontent.com/69755039/143600174-7f10987e-3665-49bc-b346-6f3e9a30df08.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/69755039/143600174-7f10987e-3665-49bc-b346-6f3e9a30df08.png" width="300" height="600">
     </div>
 </div>
 
