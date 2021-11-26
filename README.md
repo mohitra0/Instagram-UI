@@ -1,6 +1,7 @@
 # instagram_ui
 
-Instagram clone
+Instagram 2021 clone made using flutter
+Contains reels, search grid view,
 
 ## Getting Started
 
